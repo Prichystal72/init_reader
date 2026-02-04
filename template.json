@@ -1,0 +1,6 @@
+{
+  "type": "pcb",
+  "name": "Moje PCB výchozí šablona",
+  "description": "Globální šablona s nastavením šířek spojů, prokovů a pravidel",
+  "icon": "meta/icon.png"
+}
