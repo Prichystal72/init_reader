@@ -1,200 +1,438 @@
-27318742451049114
-0_STM32
-BlackPill_STLINK
-STM32F4-based development board with ST-LINK header
-stm32 arm
+27327624707936343
+00_basic
+CP_Radial_D4.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor
 0
-44
-44
-0_STM32
-Blackpill_F4_EXT_SWI
-
-
+2
+2
+00_basic
+CP_Radial_D5.0mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, diameter=5mm, height=7mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm diameter 5mm height 7mm Electrolytic Capacitor
 0
-40
-40
-0_STM32
-Blackpill_F4_NO_SWI
-
-
+2
+2
+00_basic
+CP_Radial_D6.3mm_P2.50mm
+CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor
 0
-40
-40
-0_STM32
-Blackpill_F4_SWI
-
-
+2
+2
+00_basic
+CP_Radial_D8.0mm_P3.50mm
+CP, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=12mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 3.50mm diameter 8mm height 12mm Electrolytic Capacitor
 0
-44
-44
-0_STM32
-FK723M1-ZGT6
-
-
+2
+2
+00_basic
+CP_Radial_D10.0mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor
 0
-125
-121
-0_STM32
-KY-040-PORT
-<b>PIN HEADER</b>
-
+2
+2
+00_basic
+CP_Radial_D12.5mm_P5.00mm
+CP, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=20mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 5.00mm diameter 12.5mm height 20mm Electrolytic Capacitor
 0
-5
-5
-0_esp32
-ESP32
-
-
+2
+2
+00_basic
+CP_Radial_D16.0mm_P7.50mm
+CP, Radial series, Radial, pin pitch=7.50mm, diameter=16mm, height=25mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 7.50mm diameter 16mm height 25mm Electrolytic Capacitor
 0
-49
-49
-0_esp32
-ESP32-WROOM
-
-
+2
+2
+00_basic
+CP_Radial_D22.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=22mm, height=40mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 22mm height 40mm Electrolytic Capacitor
 0
-39
-39
-0_esp32
-ESP3212
-
-
+2
+2
+00_basic
+CP_Radial_D25.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=25mm, height=45mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 25mm height 45mm Electrolytic Capacitor
 0
-31
-30
-0_esp32
-MODULE_ESP32-12 oled
-
-
+2
+2
+00_basic
+CP_Radial_D30.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=30mm, height=50mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 30mm height 50mm Electrolytic Capacitor
 0
-38
-38
-0_esp32
-MODULE_ESP32-DEVKITC
-
-
+2
+2
+00_basic
+CP_Radial_D40.0mm_P10.00mm_SnapIn
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=40mm, height=50mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 40mm height 50mm Electrolytic Capacitor
 0
-38
-38
-0_esp32
-modul AT24Cxx
-
-
+2
+2
+00_basic
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+00_basic
+C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=7.5mm, length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 7.5mm  length 3.8mm diameter 2.6mm
+0
+2
+2
+00_basic
+C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=7.5mm, length*diameter=5.1*3.1mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial series Axial Horizontal pin pitch 7.5mm  length 5.1mm diameter 3.1mm
+0
+2
+2
+00_basic
+D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+00_basic
+JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
+0
+2
+2
+00_basic
+JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical
+JST EH series connector, B3B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
+0
+3
+3
+00_basic
+JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
+JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
 4
 4
-0_moje
-AC-164A
-LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
-LCD 16x2 Alphanumeric 16pin
+00_basic
+JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical
+JST EH series connector, B5B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
-20
-16
-0_moje
-ADC1115_ADC_Module
-
-
+5
+5
+00_basic
+JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical
+JST EH series connector, B6B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
-10
-10
-0_moje
+6
+6
+00_basic
+JST_EH_S2B-EH_1x02_P2.50mm_Horizontal
+JST EH series connector, S2B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+2
+2
+00_basic
+JST_EH_S3B-EH_1x03_P2.50mm_Horizontal
+JST EH series connector, S3B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+3
+3
+00_basic
+JST_EH_S4B-EH_1x04_P2.50mm_Horizontal
+JST EH series connector, S4B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+4
+4
+00_basic
+JST_EH_S5B-EH_1x05_P2.50mm_Horizontal
+JST EH series connector, S5B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+5
+5
+00_basic
+JST_EH_S6B-EH_1x06_P2.50mm_Horizontal
+JST EH series connector, S6B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
+0
+6
+6
+00_basic
+LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+00_basic
+R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+00_basic
+R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+00_basic
+R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+00_dc_dc
 Converter_DCDC_Artesyn_ATA_SMD
 DCDC-Converter, Artesyn, ATA Series, 3W Single and Dual Output, 1500VDC Isolation, 24.0x13.7x8.0mm https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf https://www.artesyn.com/power/assets/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf
 DCDC SMD
 0
 7
 7
-0_moje
-HM-11_Module
-Chinese HM-11 Bluetooth Low Energy module
-
-0
-16
-16
-0_moje
-KY-040-PORT
-<b>PIN HEADER</b>
-
-0
-5
-5
-0_moje
-LogicLevelConverter_Module
-
-
-0
-12
-12
-0_moje
-MODULE_ESP32-12 oled
-
-
-0
-38
-38
-0_moje
-MODULE_ESP8266_oled
-
-
-0
-30
-30
-0_moje
-MPU6050_Module
-
-
-0
-8
-8
-0_moje
+00_dc_dc
 Mini360_Module
 
 
 0
 4
 4
-0_moje
-Pwm2_DAC_module
+00_dc_dc
+dc-dc-HW133A-F
 
 
 0
-10
-6
-0_moje
-SD_Card_Module
-
-
-0
-6
-6
-0_moje
-SX1308_Boost_Module
+17
+4
+00_dc_dc
+dc-dc-HW613
 
 
 0
 4
 4
-0_moje
-ZED F9P ali
+00_dc_dc
+dc_dc_MT3608
 
 
 0
-19
-19
-0_moje
+4
+4
+00_display
+0.96OLED_4P
+
+
+0
+4
+4
+00_display
+AC-164A
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
+00_display
 diplay_ali_16x2
 LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
 LCD 16x2 Alphanumeric 16pin
 0
 8
 4
-0_moje
+00_esp32_esp8266
+ESP32
+
+
+0
+49
+49
+00_esp32_esp8266
+ESP32-WROOM
+
+
+0
+39
+39
+00_esp32_esp8266
+ESP3212
+
+
+0
+31
+30
+00_esp32_esp8266
+MODULE_ESP32-12 oled
+
+
+0
+38
+38
+00_esp32_esp8266
+MODULE_ESP32-12 oled_backup
+
+
+0
+38
+38
+00_esp32_esp8266
+MODULE_ESP32-DEVKITC
+
+
+0
+38
+38
+00_esp32_esp8266
+MODULE_ESP8266_oled
+
+
+0
+30
+30
+00_esp32_esp8266
+modul AT24Cxx
+
+
+0
+4
+4
+00_module
+ADC1115_ADC_Module
+
+
+0
+10
+10
+00_module
+HM-11_Module
+Chinese HM-11 Bluetooth Low Energy module
+
+0
+16
+16
+00_module
+KY-040-PORT
+<b>PIN HEADER</b>
+
+0
+5
+5
+00_module
+LogicLevelConverter_Module
+
+
+0
+12
+12
+00_module
+MPU6050_Module
+
+
+0
+8
+8
+00_module
+Pwm2_DAC_module
+
+
+0
+10
+6
+00_module
+SD_Card_Module
+
+
+0
+6
+6
+00_module
+SX1308_Boost_Module
+
+
+0
+4
+4
+00_module
+ZED F9P ali
+
+
+0
+19
+19
+00_module
 encoder KY-040
 <b>PIN HEADER</b>
 
 0
 7
 7
+00_ruzne
+RaspberryPi_Pico_Common_THT
+Raspberry Pi Pico common (Pico & Pico W) through-hole footprint, supports Raspberry Pi Pico 2, default socketed model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+module usb pcb antenna
+0
+40
+40
+00_stm32
+BlackPill_STLINK
+STM32F4-based development board with ST-LINK header
+stm32 arm
+0
+44
+44
+00_stm32
+Blackpill_F4_EXT_SWI
+
+
+0
+40
+40
+00_stm32
+Blackpill_F4_NO_SWI
+
+
+0
+40
+40
+00_stm32
+Blackpill_F4_SWI
+
+
+0
+44
+44
+00_stm32
+FK723M1-ZGT6
+
+
+0
+125
+121
+00_stm32
+ST_NUCLEO-F303RE
+
+
+0
+108
+108
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -108097,209 +108335,6 @@ Varistor
 Varistor_Panasonic_VF
 Panasonic VF series varistor, 6x8mm body, 3.2mm height, https://mediap.industry.panasonic.eu/assets/imported/industrial.panasonic.com/cdbs/www-data/pdf/AWA0000/AWA0000C4.pdf
 Varistor VF
-0
-2
-2
-__moje_passive
-CP_Radial_D4.0mm_P2.00mm
-CP, Radial series, Radial, pin pitch=2.00mm, diameter=4mm, height=7mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.00mm diameter 4mm height 7mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D5.0mm_P2.50mm
-CP, Radial series, Radial, pin pitch=2.50mm, diameter=5mm, height=7mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.50mm diameter 5mm height 7mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D6.3mm_P2.50mm
-CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D8.0mm_P3.50mm
-CP, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=12mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 3.50mm diameter 8mm height 12mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D10.0mm_P5.00mm
-CP, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D12.5mm_P5.00mm
-CP, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=20mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 5.00mm diameter 12.5mm height 20mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D16.0mm_P7.50mm
-CP, Radial series, Radial, pin pitch=7.50mm, diameter=16mm, height=25mm, Electrolytic Capacitor
-CP Radial series Radial pin pitch 7.50mm diameter 16mm height 25mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D22.0mm_P10.00mm_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=22mm, height=40mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 22mm height 40mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D25.0mm_P10.00mm_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=25mm, height=45mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 25mm height 45mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D30.0mm_P10.00mm_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=30mm, height=50mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 30mm height 50mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-CP_Radial_D40.0mm_P10.00mm_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, diameter=40mm, height=50mm, Electrolytic Capacitor, http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm diameter 40mm height 50mm Electrolytic Capacitor
-0
-2
-2
-__moje_passive
-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor handsolder
-0
-2
-2
-__moje_passive
-C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal
-C, Axial series, Axial, Horizontal, pin pitch=7.5mm, length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf
-C Axial series Axial Horizontal pin pitch 7.5mm  length 3.8mm diameter 2.6mm
-0
-2
-2
-__moje_passive
-C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal
-C, Axial series, Axial, Horizontal, pin pitch=7.5mm, length*diameter=5.1*3.1mm^2, http://www.vishay.com/docs/45231/arseries.pdf
-C Axial series Axial Horizontal pin pitch 7.5mm  length 5.1mm diameter 3.1mm
-0
-2
-2
-__moje_passive
-D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-diode handsolder
-0
-2
-2
-__moje_passive
-JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
-JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
-0
-2
-2
-__moje_passive
-JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical
-JST EH series connector, B3B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
-0
-3
-3
-__moje_passive
-JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical
-JST EH series connector, B4B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
-0
-4
-4
-__moje_passive
-JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical
-JST EH series connector, B5B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
-0
-5
-5
-__moje_passive
-JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical
-JST EH series connector, B6B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
-0
-6
-6
-__moje_passive
-JST_EH_S2B-EH_1x02_P2.50mm_Horizontal
-JST EH series connector, S2B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
-0
-2
-2
-__moje_passive
-JST_EH_S3B-EH_1x03_P2.50mm_Horizontal
-JST EH series connector, S3B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
-0
-3
-3
-__moje_passive
-JST_EH_S4B-EH_1x04_P2.50mm_Horizontal
-JST EH series connector, S4B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
-0
-4
-4
-__moje_passive
-JST_EH_S5B-EH_1x05_P2.50mm_Horizontal
-JST EH series connector, S5B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
-0
-5
-5
-__moje_passive
-JST_EH_S6B-EH_1x06_P2.50mm_Horizontal
-JST EH series connector, S6B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
-0
-6
-6
-__moje_passive
-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-__moje_passive
-R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
-Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-__moje_passive
-R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
-__moje_passive
-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
 0
 2
 2
