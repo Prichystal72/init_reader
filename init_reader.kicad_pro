@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -124,8 +124,8 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.21,
-        "min_connection": 0.0,
+        "min_clearance": 0.3,
+        "min_connection": 1.0,
         "min_copper_edge_clearance": 0.3,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
@@ -190,6 +190,7 @@
         }
       ],
       "track_widths": [
+        0.0,
         0.0,
         0.4,
         0.5,
@@ -259,6 +260,10 @@
         {
           "diameter": 5.0,
           "drill": 3.0
+        },
+        {
+          "diameter": 5.0,
+          "drill": 4.0
         },
         {
           "diameter": 5.0,
@@ -551,7 +556,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "cnc/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
